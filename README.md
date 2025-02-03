@@ -6,4 +6,5 @@ Chấm công, tính lương, quản lí, thống kê, báo cáo.
 
 
 --.--
-![ChamCong](https://github.com/user-attachments/assets/84f319e7-ac3c-4e35-9fc3-9cf040bf2c03)
+
+![ChamCong](https://github.com/user-attachments/assets/25b57195-1818-470e-8fe5-8ada9121d567)
